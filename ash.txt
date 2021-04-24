@@ -1,0 +1,3 @@
+student name: ashwini
+roll no: 3
+result:pass
